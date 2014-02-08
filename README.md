@@ -3,4 +3,6 @@
 
 just test the git with github
 
-haha you must read me first
+nini you must read me first
+
+我来测试吧
